@@ -1,10 +1,16 @@
 ---
 name: Project Deliverables
-about: Describe this issue template's purpose here.
-title: "'Reviews: [ PROJECT ] [PM##] [MM/YYYY]'"
+about: Keep track of deliverable reviews
+title: "Reviews: [ PROJECT ] [PM##] [MM/YYYY]"
 labels: deliverables, Review
 assignees: ''
 
 ---
 
-Keep track of deliverable reviews
+- [ ] AEORR
+- [ ] CRAR
+- [ ] EDD
+- [ ] PDD
+- [ ] SIAR
+- [ ] SR
+- [ ] SP
