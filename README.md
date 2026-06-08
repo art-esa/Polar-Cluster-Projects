@@ -1,8 +1,22 @@
-# Polar-Cluster-Projects
+# Polar Cluster Projects
 
-This repository serves as the reference point for the polar cluster projects I manage 
 - SO-SIMBA
 - Fresh4Bio
 - ARCTEX
 - Arctic-Flow
 - POLAR-4DG
+
+# Hydrology Cluster Projects
+
+- EO4FLOOD
+- STREAM-NEXT
+
+# Ocean Cluster Projects
+
+- UpperDyn
+- CoastDyn
+- WATER
+
+# SUP
+
+- MULTIWATER
